@@ -1,6 +1,7 @@
 # unformatted code
 from collections import deque
 
+f = {"oooooooooooooooooooooooooooooooooooo": 123, "ldflgkgkdotigksdsvmdlgvksmvlkgvm": 4356586586758634}
 graph = {
     "a": ["c", "b"],
     "b": ["d"],
@@ -20,6 +21,8 @@ graph = {
         5,
         858,
         57,
+        f["oooooooooooooooooooooooooooooooooooo"],
+        f["ldflgkgkdotigksdsvmdlgvksmvlkgvm"],
         8,
         67,
         867,
