@@ -3,7 +3,7 @@ from collections import deque
 
 f = {
     "oooooooooooooooooooooooooooooooooooo": 123,
-    "ldflgkgkdotigksdsvmdlgvksmvlfvz dkjfvnzkjvznfjkdvnkfjdvnmkjvmkkgvm": 4356586586656858689596856596895896875863454554545,
+    "ldflgkgkdotigksdsvmdlgvksmvlfvz dkjfvnzkjvznfjkdvnkfjdvnzfvfvfvzdfvzmkjvmkkgvm": 4356586586656858689596856596895896875863454554545,
 }
 graph = {
     "a": ["c", "b"],
