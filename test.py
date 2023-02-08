@@ -1,7 +1,10 @@
 # unformatted code
 from collections import deque
 
-f = {"oooooooooooooooooooooooooooooooooooo": 123, "ldflgkgkdotigksdsvmdlgvksmvlkgvm": 4356586586758634}
+f = {
+    "oooooooooooooooooooooooooooooooooooo": 123,
+    "ldflgkgkdotigksdsvmdlgvksmvlkgvm": 43565865866568586895968565968958968758634,
+}
 graph = {
     "a": ["c", "b"],
     "b": ["d"],
