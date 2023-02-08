@@ -1,5 +1,10 @@
 # unformatted code
+import pandas as pd
 from collections import deque
+import numpy as np
+from typing import List
+from typing import Int
+
 
 f = {
     "oooooooooooooooooooooooooooooooooooo": 123456,

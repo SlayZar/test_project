@@ -1,7 +1,10 @@
+fail_fast: true
+
 repos:
--   repo: https://github.com/ambv/black
-    rev: 22.3.0
+  - repo: https://github.com/ambv/black
+    rev: 22.10.0
     hooks:
     - id: black
-      language: python
-      types: [python]
+    language: python
+    types: [python]
+    entry: poetry run black --config pyproject.toml
