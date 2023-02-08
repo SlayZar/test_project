@@ -1,7 +1,30 @@
 # unformatted code
 from collections import deque
 
-graph = {"a": ["c", "b"], "b": ["d"], "c": ["e"], "d": ["f"], "e": [], "f": []}
+graph = {
+    "a": ["c", "b"],
+    "b": ["d"],
+    "csdadaedseda": ["e"],
+    "ddaedadadedaed": ["f"],
+    "edadaedadaedeada": [],
+    "fdaeddadadadaededadadaededeeeeeeeeeeeeeeeeeeeeedfssfsfs": [
+        5,
+        5,
+        5,
+        5,
+        4,
+        56,
+        65,
+        475,
+        767,
+        5,
+        858,
+        57,
+        8,
+        67,
+        867,
+    ],
+}
 
 
 def bfs(graph, source):
